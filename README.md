@@ -13,6 +13,6 @@ How to start
 
 Just run docker container:
 
-```docker run -d -P 80:80 citizenstig/owaspbricks```
+```docker run -d -p 80:80 citizenstig/owaspbricks```
 
 And setup database via Web.
